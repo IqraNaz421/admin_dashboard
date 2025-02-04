@@ -386,7 +386,7 @@ const LoginForm = () => {
         {message && (
           <div
             className={`mb-6 p-4 rounded-xl flex items-center space-x-3 ${
-              message.includes("Invalid") ? "bg-red-100/30 text-red-200" : "bg-green-100/30 text-green-200"
+              message.includes("Invalid") ? "bg-red-100/30 text-red-200" : "bg-green-100/30 text-green-500"
             }`}
           >
             <div className={`flex-1 text-center font-medium ${message.includes("Invalid") ? "animate-shake" : ""}`}>

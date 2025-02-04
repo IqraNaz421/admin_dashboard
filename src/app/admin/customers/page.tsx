@@ -201,7 +201,7 @@ export default function Cars() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header Section */}
         <div className="mb-8">
-          <h1 className="text-4xl font-bold text-black bg-clip-text text-transparent mb-2 pt-14">
+          <h1 className="text-4xl font-bold text-black bg-clip-text  mb-2 pt-14">
             Car Inventory Directory
           </h1>
           <p className="text-black">Manage and view all car information</p>
