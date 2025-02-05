@@ -38,7 +38,7 @@ This project follows a structured folder system to ensure clarity and maintainab
 
 Here’s an overview of the project structure:
 
-/admin-dashboard ├── /public # Static assets like images and icons ├── /src # Source code files │ ├── /app # Pages and main logic for Next.js │ ├── /components # Reusable UI components (buttons, forms, etc.) │ ├── /data # Mock data or API calls │ ├── /styles # Global styles for the project │ ├── /utils # Utility functions │ └── /assets # Icons, images, etc. ├── package.json # Project metadata and dependencies ├── package-lock.json # Lock file for dependencies ├── next.config.js # Next.js configuration file ├── README.md # Documentation for the project └── LICENSE # Project license information
+![image](https://github.com/user-attachments/assets/ae77a56e-8968-4406-979e-5cbba410109c)
 
 
 
