@@ -36,20 +36,8 @@ cd admin-dashboard
 📂 **Project Structure**
 This project follows a structured folder system to ensure clarity and maintainability:
 
-/admin-dashboard
-├── /public                  # Static assets like images and icons
-├── /src                     # Source code files
-│   ├── /app                 # Pages and main logic for Next.js
-│   ├── /components          # Reusable UI components (buttons, forms, etc.)
-│   ├── /data                # Mock data or API calls
-│   ├── /styles              # Global styles for the project
-│   ├── /utils               # Utility functions
-│   └── /assets              # Icons, images, etc.
-├── package.json             # Project metadata and dependencies
-├── package-lock.json        # Lock file for dependencies
-├── next.config.js           # Next.js configuration file
-├── README.md                # Documentation for the project
-└── LICENSE                  # Project license information
+![Uploading image.png…]()
+
 
 🗂️ **Key Files to Explore:**
 src/app/page.tsx: The main page that displays car inventory information.
