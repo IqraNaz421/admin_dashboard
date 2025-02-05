@@ -43,6 +43,7 @@ Here’s an overview of the project structure:
 
 
 🗂️ **Key Files to Explore:**
+
 src/app/page.tsx: The main page that displays car inventory information.
 src/components/ThemedIcon.tsx: A reusable component used for icons.
 src/data/products.ts: Contains mock data for car details (can be replaced by API calls).
@@ -54,6 +55,7 @@ next.config.js: Configuration file for Next.js settings.
 We welcome contributions from the community! To contribute, please follow these steps:
 
 Fork the repository on GitHub.
+
 Create a new branch for your changes (e.g., feature/add-new-widget).
 Make your changes and commit them with a clear message.
 Push the changes to your forked repository.
@@ -62,6 +64,7 @@ Create a pull request to merge your changes into the main repository.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 💬 Questions?
+
 If you have any questions or encounter issues, feel free to open an issue in this repository. We'd love to help!
 
 Thank you for checking out this project! ✨
@@ -83,12 +86,17 @@ A special thanks to Next.js for providing the framework and tools that made this
 Inspiration for this design came from various dashboard UI templates available online.
 
 🔗 Links
+
 Project Documentation - Detailed user manual for this admin dashboard.
 
 Live Demo - See the dashboard in action!
 🧑‍💻 Developers
+
 Name: Iqra Naz
+
 Email: your-email@example.com
+
+
 GitHub: @iqragithub.com
 Feel free to reach out for any collaborations or questions.
 
