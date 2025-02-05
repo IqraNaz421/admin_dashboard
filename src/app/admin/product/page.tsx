@@ -428,7 +428,7 @@ const AdminPanel = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const query = `*[_type == "product"] [5..16]{ 
+        const query = `*[_type == "product"] [4..19]{ 
           _id, 
           name, 
           type, 
@@ -500,7 +500,7 @@ const AdminPanel = () => {
                 {/* Buttons */}
                 <div className="mt-4 flex gap-2">
                   <button
-                    className="bg-blue-500 text-white px-3 py-1 rounded hover:bg-blue-600"
+                    className="bg-blue-700 text-white px-3 py-1 rounded hover:bg-blue-600"
                     onClick={() => handleEdit(product._id)}
                   >
                     Edit
